@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "whatsapp": {
+      "command": "/home/mauchly/.local/bin/uv",
+      "args": [
+        "--directory",
+        "/home/mauchly/codes/mcp/my-own-servers/whatsapp-mcp/whatsapp-mcp-server",
+        "run",
+        "main.py"
+      ]
+    }
+  }
+}
